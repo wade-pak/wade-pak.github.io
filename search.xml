@@ -4,6 +4,104 @@
   
     
     <entry>
+      <title>第一章-未知</title>
+      <link href="/2021/11/11/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E6%9C%AA%E7%9F%A5/"/>
+      <url>/2021/11/11/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E6%9C%AA%E7%9F%A5/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 数学 </category>
+          
+          <category> 高数下 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数学 </tag>
+            
+            <tag> 高数上 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第二章:导数与微分</title>
+      <link href="/2021/11/11/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%AF%BC%E6%95%B0%E4%B8%8E%E5%BE%AE%E5%88%86/"/>
+      <url>/2021/11/11/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%AF%BC%E6%95%B0%E4%B8%8E%E5%BE%AE%E5%88%86/</url>
+      
+        <content type="html"><![CDATA[<h1>导数概念</h1><h2 id="引例">引例</h2><p>balabala</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 数学 </category>
+          
+          <category> 高数上 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一章:函数与极限</title>
+      <link href="/2021/11/11/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%87%BD%E6%95%B0%E4%B8%8E%E6%9E%81%E9%99%90/"/>
+      <url>/2021/11/11/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%87%BD%E6%95%B0%E4%B8%8E%E6%9E%81%E9%99%90/</url>
+      
+        <content type="html"><![CDATA[<h1>第一节:映射与函数</h1><h2 id="映射">映射</h2><p>dadabalabalal</p><h2 id="函数">函数</h2><p>balabala</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 数学 </category>
+          
+          <category> 高数上 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数学 </tag>
+            
+            <tag> 高数上 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>test11</title>
+      <link href="/2021/11/09/test/"/>
+      <url>/2021/11/09/test/</url>
+      
+        <content type="html"><![CDATA[<h1>hello</h1><h2 id="hello">hello</h2><h3 id="hello-2">hello</h3><h4 id="hello-3">hello</h4><h5 id="hello-4">hello</h5><h6 id="hello-5">hello</h6><hr><p>I really like using Markdown.</p><p>I think I’ll use it from now on.</p><hr><p>This is the first line.<br>And this is the second line.</p><hr><p>I love <strong>blod text</strong></p><p>I love <strong>blod text</strong></p><p>Love<strong>is</strong>blod</p><hr><p>The <em>cat’s meow</em>.</p><p>THe <em>cat’s meow</em></p><p>A<em>cat</em>meow</p><hr><p><em><strong>Important</strong></em> text.</p><p><em><strong>Important</strong></em> text.</p><p><strong><em>Important</em></strong> text.</p><p><strong><em>Important</em></strong> text.</p><hr><blockquote><p>Dorothy followed her through many rooms.</p></blockquote><hr><blockquote><p>This the first parafraph.</p><p>And this is the second paragraph.</p></blockquote><hr><blockquote><p>This the first paragraph.</p><blockquote><p>And this is the nested paragraph</p></blockquote></blockquote><hr><blockquote><h5 id="The-quarterly-results-look-great">The quarterly results look great!</h5><ul><li>Revenue was off the chart.</li><li>Profits were higher than ever.</li></ul><p><em>Everything</em> is going <strong>well</strong>.</p></blockquote><hr><ol><li><p>First item</p></li><li><p>Second item</p></li><li><p>Third item</p></li><li><p>Fourth item</p></li><li><p>First item</p></li><li><p>Second item</p></li><li><p>Third item</p></li><li><p>Fourth item</p></li><li><p>First item</p></li><li><p>Second iten</p></li><li><p>Third item</p></li><li><p>Fourth item</p></li></ol><hr><ol><li>First item</li><li>Second item</li><li>Third item<ol><li>Indented item</li><li>Indented item</li></ol></li><li>Fourth item</li></ol><hr><ul><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ul><ul><li>First item</li><li>Second item</li><li>Third item</li><li>Fourth item</li></ul><ul><li>First item</li></ul><ul><li>Second item</li></ul><ul><li>Third item</li></ul><ul><li>Fourth item</li></ul><hr><ul><li>First item</li><li>Second item</li><li>Third item<ul><li>Indented item</li><li>Indented item</li></ul></li><li>Fourth item</li></ul><hr><ul><li><p>This is the first list item.</p></li><li><p>Here’s the second list item.</p><p>I need to add another paragraph below the second list item.</p></li><li><p>And here’s the third list item.</p></li></ul><hr><ul><li>This is the first list item.</li></ul><ul><li><p>Here’s the second list item.</p><blockquote><p>A blockquote would look great here.</p></blockquote></li></ul><ul><li>And here’s the third list item.</li></ul><hr><ol><li><p>Open the file.</p></li><li><p>Find the following code block on line 21:</p><pre><code> &lt;html&gt; &lt;head&gt; &lt;title&gt;Test&lt;/title&gt; &lt;/head&gt;</code></pre></li><li><p>Update the title to match the name of your website.</p></li></ol><hr><ol><li><p>OPen the file containing Tux, the Linux mascot.</p></li><li><p>Marvel at its beauty.</p><p><img src="https://i.loli.net/2021/11/07/aUuEpjCBYoWqDeS.png" alt="kk"></p></li><li><p>Close the file</p></li></ol><hr><p>At the command prompt, type <code>nano</code>.</p><hr><p><code>Use `code` in your Markdown file.</code></p><hr><pre><code>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;/html&gt;</code></pre><hr><p>Use <a href="https://duckduckgo.com">Duck Duck go</a>.</p><hr><p>Use <a href="https://duckduckgo.com" title="My search engine!">Duck Duck Go</a></p><hr><p><a href="https://eff.org">https://eff.org</a><br><a href="mailto:fake@exampple.com">fake@exampple.com</a></p><hr><p>I love supporting <strong><a href="https://eff.org">EFF</a></strong>.<br>This is the <em><a href="https://eff.org">EFF</a></em>.</p><hr><p>balabala it was a <a href="https://duckduckgo.com" title="hobbit lifestyle">hobbit-hole</a>,and balabala</p><hr><p>balabala it was a <a href="https://duckduckgo.com" title="hobbit lifestyle">hobbit-hole</a>,and balabala</p><hr><p><img src="https://i.loli.net/2021/11/07/aUuEpjCBYoWqDeS.png" alt="so cool" title="abcd"></p><hr><p>* balabala</p><hr><table><thead><tr><th>Syntax</th><th>Description</th></tr></thead><tbody><tr><td>Header</td><td>Tittle</td></tr><tr><td>Paragraph</td><td>Text</td></tr></tbody></table><hr><table><thead><tr><th style="text-align:left">Syntax</th><th style="text-align:center">Description</th><th style="text-align:right">Test Text</th></tr></thead><tbody><tr><td style="text-align:left">Header</td><td style="text-align:center">Title</td><td style="text-align:right">Here’s this</td></tr><tr><td style="text-align:left">paragraph</td><td style="text-align:center">Text</td><td style="text-align:right">And more</td></tr></tbody></table><hr><h2 id="code￼0"><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&#123;</span><br><span class="line">&quot;firstName&quot;: &quot;John&quot;,</span><br><span class="line">&quot;lastName&quot;: &quot;Smith&quot;,</span><br><span class="line">&quot;age&quot;: 25</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></h2><figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&#123;</span><br><span class="line"><span class="attr">&quot;firstNmae: &quot;</span>John<span class="attr">&quot;,</span></span><br><span class="line"><span class="attr">&quot;</span>lastNmae&#x27;: <span class="string">&quot;Smith&quot;</span>,</span><br><span class="line"><span class="attr">&quot;age&quot;</span>: <span class="number">25</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><hr><p>balabala,<a href="abc">^1</a> bala.<a href="abcde">^bignote</a></p><pre><code>balabala.  `&#123; my code&#125;`  hhhhh</code></pre><hr><p><a href="#www.baidu.com">baidu</a></p><hr><p>First Term<br>: This is the de</p><p>Second Term<br>: This is one<br>: This is another</p><hr><p>The world is <s>flat</s> round.</p><hr><ul><li>[x] Write the press replease</li><li>[ ] Update the website</li><li>[ ] Contact the media</li></ul><hr><p><a href="https://example.com">https://example.com</a><br><a href="http://example.com">http://example.com</a></p><hr><p><code>https://example.com</code><br><code>http://example.com</code></p><hr>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>two</title>
       <link href="/2021/11/05/two/"/>
       <url>/2021/11/05/two/</url>
